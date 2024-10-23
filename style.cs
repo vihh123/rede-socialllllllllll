@@ -2,7 +2,7 @@
 
 :root {
     --bg-color: #B8001F;
-    --primary-color: #DDDDDD;
+    --primary-color: #507687;
     --secondary-color: #F05454;
     --font: "Nunito Sans", sans-serif;
 }
