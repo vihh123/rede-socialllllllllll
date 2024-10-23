@@ -3,7 +3,7 @@
 :root {
     --bg-color: #B8001F;
     --primary-color: #507687;
-    --secondary-color: #F05454;
+    --secondary-color: #697565;
     --font: "Nunito Sans", sans-serif;
 }
 
