@@ -1,7 +1,7 @@
 @import url("https://fonts.google.com/share?selection.family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700");
 
 :root {
-    --bg-color: #222831;
+    --bg-color: #B8001F;
     --primary-color: #DDDDDD;
     --secondary-color: #F05454;
     --font: "Nunito Sans", sans-serif;
